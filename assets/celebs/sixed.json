@@ -1,0 +1,215 @@
+{
+	"frames": {
+		"tile000.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile001.png": {
+			"frame": {
+				"x": 403,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile002.png": {
+			"frame": {
+				"x": 805,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile003.png": {
+			"frame": {
+				"x": 1207,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile004.png": {
+			"frame": {
+				"x": 1609,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile005.png": {
+			"frame": {
+				"x": 2011,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile006.png": {
+			"frame": {
+				"x": 2413,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile007.png": {
+			"frame": {
+				"x": 2815,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile008.png": {
+			"frame": {
+				"x": 3217,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		},
+		"tile009.png": {
+			"frame": {
+				"x": 3619,
+				"y": 1,
+				"w": 400,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 700
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 4020,
+			"h": 702
+		},
+		"scale": "1"
+	}
+}
